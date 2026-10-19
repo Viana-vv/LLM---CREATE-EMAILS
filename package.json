@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^10.6.0"
+  },
+  "name": "llm",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000L\u0000L\u0000M\u0000-\u0000-\u0000-\u0000C\u0000R\u0000E\u0000A\u0000T\u0000E\u0000-\u0000E\u0000M\u0000A\u0000I\u0000L\u0000S\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viana-vv/LLM---CREATE-EMAILS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Viana-vv/LLM---CREATE-EMAILS/issues"
+  },
+  "homepage": "https://github.com/Viana-vv/LLM---CREATE-EMAILS#readme"
+}
